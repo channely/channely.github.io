@@ -3,9 +3,9 @@
   <title><![CDATA[Channely]]></title>
   <subtitle><![CDATA[hello-earth]]></subtitle>
   <link href="/atom.xml" rel="self"/>
-  <link href="http://www.wife.name/"/>
-  <updated>2014-08-04T13:58:40.421Z</updated>
-  <id>http://www.wife.name/</id>
+  <link href="http://www.dart-lang.cn/"/>
+  <updated>2014-08-04T15:39:10.939Z</updated>
+  <id>http://www.dart-lang.cn/</id>
   
   <author>
     <name><![CDATA[Channely]]></name>
@@ -16,8 +16,8 @@
   
   <entry>
     <title><![CDATA[World vs Self]]></title>
-    <link href="http://www.wife.name/2014/08/04/World-vs-Self/"/>
-    <id>http://www.wife.name/2014/08/04/World-vs-Self/</id>
+    <link href="http://www.dart-lang.cn/2014/08/04/World-vs-Self/"/>
+    <id>http://www.dart-lang.cn/2014/08/04/World-vs-Self/</id>
     <published>2014-08-04T04:25:13.000Z</published>
     <updated>2014-08-04T12:55:25.342Z</updated>
     <content type="html"><![CDATA[<p>前天晚上,看了仝哥他们公司一个前同事Aaron Swat的纪录片.</p>
@@ -32,84 +32,84 @@
     <summary type="html"><![CDATA[<p>前天晚上,看了仝哥他们公司一个前同事Aaron Swat的纪录片.</p>
 <p>当听说看纪录片时,我是兴趣十足的,自己对于纪录片的喜好大概起源于小时候和爸妈一起看&lt;人与自然&gt;的记忆(小时候信息来源少).]]></summary>
     
-      <category term="Think" scheme="http://www.wife.name/tags/Think/"/>
+      <category term="Think" scheme="http://www.dart-lang.cn/tags/Think/"/>
     
   </entry>
   
   <entry>
     <title><![CDATA[数据与雨(Data as Rain)]]></title>
-    <link href="http://www.wife.name/2014/07/01/%E6%95%B0%E6%8D%AE%E4%B8%8E%E9%9B%A8(data-as-rain)/"/>
-    <id>http://www.wife.name/2014/07/01/数据与雨(data-as-rain)/</id>
+    <link href="http://www.dart-lang.cn/2014/07/01/%E6%95%B0%E6%8D%AE%E4%B8%8E%E9%9B%A8(data-as-rain)/"/>
+    <id>http://www.dart-lang.cn/2014/07/01/数据与雨(data-as-rain)/</id>
     <published>2014-07-01T07:33:59.000Z</published>
     <updated>2014-08-04T12:43:32.319Z</updated>
     <content type="html"><![CDATA[<p>就是刚才,’壮丽’的花生豆大的雨点坠落在17楼的玻璃上,牢牢地站在窗户上.屋里那只终日昏昏碌碌睡觉的猫,精神起来,到桌子上捣乱,驳倒了某个同事的水杯,造成了办公室一时间的稍稍骚动.然后是’屏静’.那只猫叫”呼噜”.<br><a id="more"></a><br>脏数据:不知是昨天晚上还是今天早上,依稀记得不知咋的一直在想&lt;&lt;黑客帝国&gt;&gt;的结局,以为自己一直认为没有看透结局,今天算是想到了一个让自己还算满意的结果吧,虽然悲观了一点.但是合情合理.neo和幸存者一直在用生命维护的’真实世界’锡安从来就是世界缔造者的补丁计划.一切都是周密的安排.包括反叛和幸存.<br>可能是经典的那段neo的’数据流世界’场景太鲜活,导致了这次童趣的遐想.天上的云,地下的水.就像网络世界中的数据,本没有什么区别,只是存储到了不同的位置,天上在挥洒着雨点,传递到地面,大地通过自己的地形汇聚起这一次的数据传输,将数据存储到自己的地下数据库,或者分流到其他存储媒介,比如说像缓存一样的江河湖海,数据的存在是有实效的,长久不用就归一大海,然后蒸发是天空对数据的回收利用.南北极是重要的数据区块,不轻易io.<br>不但如此,就像刚才天地之间的一瞬间数据传递,还表现出网络中数据真正应该有的过程,以保证高效和无痕.一次传输的数据固定,就是应该下的那几滴雨,但是聪明的造物主知道将大量的数据拆包发送,这样不会瞬间占用天地间太大的通道空间,造成硬件受损.<br>不过就像数据的属性一样,同属性的数据总会被归一处理,所以金木水火土往往物以类聚,达到自然而然的数据规整.<br>…Think about world…原来是’呼噜’渴了….</p>
 ]]></content>
     <summary type="html"><![CDATA[<p>就是刚才,’壮丽’的花生豆大的雨点坠落在17楼的玻璃上,牢牢地站在窗户上.屋里那只终日昏昏碌碌睡觉的猫,精神起来,到桌子上捣乱,驳倒了某个同事的水杯,造成了办公室一时间的稍稍骚动.然后是’屏静’.那只猫叫”呼噜”.<br>]]></summary>
     
-      <category term="Think" scheme="http://www.wife.name/tags/Think/"/>
+      <category term="Think" scheme="http://www.dart-lang.cn/tags/Think/"/>
     
   </entry>
   
   <entry>
     <title><![CDATA[To mother,again.]]></title>
-    <link href="http://www.wife.name/2014/05/12/lazy_a_busy_day/"/>
-    <id>http://www.wife.name/2014/05/12/lazy_a_busy_day/</id>
+    <link href="http://www.dart-lang.cn/2014/05/12/lazy_a_busy_day/"/>
+    <id>http://www.dart-lang.cn/2014/05/12/lazy_a_busy_day/</id>
     <published>2014-05-12T13:12:04.000Z</published>
     <updated>2014-08-04T12:43:32.355Z</updated>
     <content type="html"><![CDATA[<p>YUI - 最近两年的状态是一个半入门的程序员 且是前端er 所以对YUI这些前端库还是颇知一二的<br>多年前 收藏了一首歌 &lt;<to mother="">&gt; 当时应该是大一 一是因为主题是感激 而是因为歌声真的挺好听 还有就是当时的中文翻译版歌词写的很动人<br><a id="more"></a><br>最近 半个月之前 看新闻时听说了一个两个动漫 &lt;<fate zero="">&gt;和&lt;&lt;刀剑神域&gt;&gt;既SAO<br>sao里有一个系统级别的人工智能(AI) 是男女主角的虚拟女儿 名字叫YUI(结衣) 这是在第三个领域遇见YUI这个名字了<br>后来看资料知道 刀剑神域的片尾曲 是YUI唱的 这时已经感觉到和to mother的歌手有点像 所以查了YUI的维基百科 知道她参演的电影&lt;&lt;太阳之歌&gt;&gt;影响很大<br>后再又去QQ音乐找了YUI的歌 果然 to mother是她的作品 而且好多其他的歌也很精彩 &lt;&lt;钢之炼金术师&gt;&gt;的again 还有&lt;&lt;死神&gt;&gt;主题曲 还有好多动漫的主题曲<br>昨天 20140511是母亲节了 听了好长时间的To mother  在那天的前天晚上将这两首歌分享到了Qzone里 合起来的意思就是 To mother,again.</fate></to></p>
 ]]></content>
     <summary type="html"><![CDATA[<p>YUI - 最近两年的状态是一个半入门的程序员 且是前端er 所以对YUI这些前端库还是颇知一二的<br>多年前 收藏了一首歌 &lt;<to mother="">&gt; 当时应该是大一 一是因为主题是感激 而是因为歌声真的挺好听 还有就是当时的中文翻译版歌词写的很动人<br>]]></summary>
     
-      <category term="life" scheme="http://www.wife.name/tags/life/"/>
+      <category term="life" scheme="http://www.dart-lang.cn/tags/life/"/>
     
   </entry>
   
   <entry>
     <title><![CDATA[茫茫碌碌走进度]]></title>
-    <link href="http://www.wife.name/2014/03/29/busy_day_by_day/"/>
-    <id>http://www.wife.name/2014/03/29/busy_day_by_day/</id>
+    <link href="http://www.dart-lang.cn/2014/03/29/busy_day_by_day/"/>
+    <id>http://www.dart-lang.cn/2014/03/29/busy_day_by_day/</id>
     <published>2014-03-29T15:46:17.000Z</published>
     <updated>2014-08-04T12:43:32.299Z</updated>
     <content type="html"><![CDATA[<p>赶进度 是软件开发者永不可能挥去的阴霾 </p>
 ]]></content>
     
     
-      <category term="life" scheme="http://www.wife.name/tags/life/"/>
+      <category term="life" scheme="http://www.dart-lang.cn/tags/life/"/>
     
   </entry>
   
   <entry>
     <title><![CDATA[the_day_after_little_holiday]]></title>
-    <link href="http://www.wife.name/2014/03/26/the_day_after_little_holiday/"/>
-    <id>http://www.wife.name/2014/03/26/the_day_after_little_holiday/</id>
+    <link href="http://www.dart-lang.cn/2014/03/26/the_day_after_little_holiday/"/>
+    <id>http://www.dart-lang.cn/2014/03/26/the_day_after_little_holiday/</id>
     <published>2014-03-26T10:50:02.000Z</published>
     <updated>2014-08-04T12:43:32.383Z</updated>
     <content type="html"><![CDATA[<p>the only thing i got after leaving SJZ is lots of heavily task,eg:education site,learning task,the lesson on normal university,and and the graduation design.But the heart i have in body have changed so deep.i have found the good place of people in other place.And i have better altitude to daily task,and known the more important thing in my life.lucky dog.</p>
 ]]></content>
     
     
-      <category term="life" scheme="http://www.wife.name/tags/life/"/>
+      <category term="life" scheme="http://www.dart-lang.cn/tags/life/"/>
     
   </entry>
   
   <entry>
     <title><![CDATA[沈阳初记事]]></title>
-    <link href="http://www.wife.name/2014/03/21/shenyangs_day/"/>
-    <id>http://www.wife.name/2014/03/21/shenyangs_day/</id>
+    <link href="http://www.dart-lang.cn/2014/03/21/shenyangs_day/"/>
+    <id>http://www.dart-lang.cn/2014/03/21/shenyangs_day/</id>
     <published>2014-03-21T12:28:05.000Z</published>
     <updated>2014-08-04T12:43:32.307Z</updated>
     <content type="html"><![CDATA[<p>昨天的现在 (⊙_⊙) 我还在去省民航局的公交上 接下来是机场大巴 我竟然不知道上车前要先买票 就直接被司机拦下了车<br>然后就是正定机场 然后就是 四十分钟的延迟 然后是一个半小时的离地之旅 <a id="more"></a><br>民航的效率果然甚是快于铁路 刚绕了石市一周 就看到了正定 然后应该是保定 再就一定是北京了 那是不一般的气势和规划 想着那是广袤大地的中心 是好多人的牵挂<br>咩了一觉就到沈阳了 第一次下旋梯 北国的气息就是强烈 仿佛到了一个月之前的庄里的天气<br>到沈阳市里的大巴 好多乘客都是石家庄的 不是的问着司机哪一站下 因为午夜过后两三点 所以大家小心又谨慎<br>但还是 错过了站 被司机绕回来送到了锦江之星 但是没有可入住的屋子 于是<br>于是是在KFC的漫长一夜 直到6:00.a.m. 着实煎熬 不过吃的被蛋卷着实好吃 还有香甜的豆浆<br>当然 最终如愿入住</p>
 ]]></content>
     <summary type="html"><![CDATA[<p>昨天的现在 (⊙_⊙) 我还在去省民航局的公交上 接下来是机场大巴 我竟然不知道上车前要先买票 就直接被司机拦下了车<br>然后就是正定机场 然后就是 四十分钟的延迟 然后是一个半小时的离地之旅 ]]></summary>
     
-      <category term="点滴" scheme="http://www.wife.name/tags/%E7%82%B9%E6%BB%B4/"/>
+      <category term="点滴" scheme="http://www.dart-lang.cn/tags/%E7%82%B9%E6%BB%B4/"/>
     
   </entry>
   
   <entry>
     <title><![CDATA[遇见Notepad.im和cc的日子]]></title>
-    <link href="http://www.wife.name/2014/03/19/meet_notepad_im_and_cc/"/>
-    <id>http://www.wife.name/2014/03/19/meet_notepad_im_and_cc/</id>
+    <link href="http://www.dart-lang.cn/2014/03/19/meet_notepad_im_and_cc/"/>
+    <id>http://www.dart-lang.cn/2014/03/19/meet_notepad_im_and_cc/</id>
     <published>2014-03-19T10:42:10.000Z</published>
     <updated>2014-08-04T12:43:32.395Z</updated>
     <content type="html"><![CDATA[<p>今天华北平原降温十度 是个微冷的一天 任务繁重 专注于工程一整天 写了几个学代码的练习任务 一会儿骑车回学校<br>同时今天偶遇了notepad.cc的得利长兄++&gt;notepad.im<a id="more"></a><br>这两个都是轻巧的云端应用</p>
@@ -119,42 +119,42 @@
 ]]></content>
     <summary type="html"><![CDATA[<p>今天华北平原降温十度 是个微冷的一天 任务繁重 专注于工程一整天 写了几个学代码的练习任务 一会儿骑车回学校<br>同时今天偶遇了notepad.cc的得利长兄++&gt;notepad.im]]></summary>
     
-      <category term="新知" scheme="http://www.wife.name/tags/%E6%96%B0%E7%9F%A5/"/>
+      <category term="新知" scheme="http://www.dart-lang.cn/tags/%E6%96%B0%E7%9F%A5/"/>
     
   </entry>
   
   <entry>
     <title><![CDATA[一个健康的身体]]></title>
-    <link href="http://www.wife.name/2014/03/17/body_to_a_man/"/>
-    <id>http://www.wife.name/2014/03/17/body_to_a_man/</id>
+    <link href="http://www.dart-lang.cn/2014/03/17/body_to_a_man/"/>
+    <id>http://www.dart-lang.cn/2014/03/17/body_to_a_man/</id>
     <published>2014-03-17T04:45:18.000Z</published>
     <updated>2014-08-04T12:43:32.379Z</updated>
     <content type="html"><![CDATA[<p>并不是只有文采飞扬的大师或豪杰才能在花园中仰天作诗 然后不禁一躬身 咳出一口血<br>长久以来 这种病态的侠义之情 犹如得到上天的恩惠般 让我们为之动容 <a id="more"></a><br>既然能有一个完好的状态 何不把持住 做出更好的成果 但是不知什么情节 更让大众动心的是牺牲般的行为 而不是兢兢业业 克己奉公的常规人群 这难道说大众对于理性来说 更强烈的情感是”同情” 是”怜悯”<br>最少可以看出 我们这是一个有着强烈民族特色的国度 不可以牵强附会的照搬其他民族的习俗<br>昨天的电视上看到 孔子 关羽 等历史人物 竟都是身长两米大几的壮汉 这让我无论如何不能想象古今的改变会是如此之大 如今 很难看到高大威猛的学者了 </p>
 ]]></content>
     <summary type="html"><![CDATA[<p>并不是只有文采飞扬的大师或豪杰才能在花园中仰天作诗 然后不禁一躬身 咳出一口血<br>长久以来 这种病态的侠义之情 犹如得到上天的恩惠般 让我们为之动容 ]]></summary>
     
-      <category term="随想" scheme="http://www.wife.name/tags/%E9%9A%8F%E6%83%B3/"/>
+      <category term="随想" scheme="http://www.dart-lang.cn/tags/%E9%9A%8F%E6%83%B3/"/>
     
   </entry>
   
   <entry>
     <title><![CDATA[头脑热气旋旋旋]]></title>
-    <link href="http://www.wife.name/2014/03/16/airport/"/>
-    <id>http://www.wife.name/2014/03/16/airport/</id>
+    <link href="http://www.dart-lang.cn/2014/03/16/airport/"/>
+    <id>http://www.dart-lang.cn/2014/03/16/airport/</id>
     <published>2014-03-16T05:51:21.000Z</published>
     <updated>2014-08-04T12:43:32.339Z</updated>
     <content type="html"><![CDATA[<p>这并不是我第一次创建个人博客了 再加上昨天开始的严重感冒 使我现在对于稍显复杂且不包含自动化的使用行为是如此的敬而远之 其实正常状态下 我并不是这样一个只注重结果和享受成果的人 就像广大程序爱好者一样 我喜欢敲代码的快乐节奏 喜欢命令行的强大 也喜欢瞎鼓捣的乐趣 <a id="more"></a> 但是 这一刻的我 已经不能让大脑承受得住多线程的任务了 于是 就像一个喜爱C的人 去折腾Java了 我暂停了Jekyll来到了Hexo 希望在追求前沿的阵地上发现更多更好的新鲜想法和行动</p>
 ]]></content>
     <summary type="html"><![CDATA[<p>这并不是我第一次创建个人博客了 再加上昨天开始的严重感冒 使我现在对于稍显复杂且不包含自动化的使用行为是如此的敬而远之 其实正常状态下 我并不是这样一个只注重结果和享受成果的人 就像广大程序爱好者一样 我喜欢敲代码的快乐节奏 喜欢命令行的强大 也喜欢瞎鼓捣的乐趣 ]]></summary>
     
-      <category term="随想" scheme="http://www.wife.name/tags/%E9%9A%8F%E6%83%B3/"/>
+      <category term="随想" scheme="http://www.dart-lang.cn/tags/%E9%9A%8F%E6%83%B3/"/>
     
   </entry>
   
   <entry>
     <title><![CDATA[Hello World]]></title>
-    <link href="http://www.wife.name/2014/03/16/hello-world/"/>
-    <id>http://www.wife.name/2014/03/16/hello-world/</id>
+    <link href="http://www.dart-lang.cn/2014/03/16/hello-world/"/>
+    <id>http://www.dart-lang.cn/2014/03/16/hello-world/</id>
     <published>2014-03-16T03:30:04.000Z</published>
     <updated>2014-08-04T12:48:37.900Z</updated>
     <content type="html"><![CDATA[<p>Welcome to <a href="http://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="http://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="http://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">trobuleshooting</a> or you can ask me on <a href="https://github.com/tommy351/hexo/issues" target="_blank" rel="external">GitHub</a>.</p>
@@ -190,7 +190,7 @@
 <h2 id="Quick_Start">Quick Start</h2>
 ]]></summary>
     
-      <category term="HelloWorld" scheme="http://www.wife.name/tags/HelloWorld/"/>
+      <category term="HelloWorld" scheme="http://www.dart-lang.cn/tags/HelloWorld/"/>
     
   </entry>
   
