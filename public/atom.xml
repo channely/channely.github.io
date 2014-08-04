@@ -4,7 +4,7 @@
   <subtitle><![CDATA[hello-earth]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://www.dart-lang.cn/"/>
-  <updated>2014-08-04T15:39:10.939Z</updated>
+  <updated>2014-08-04T16:10:53.804Z</updated>
   <id>http://www.dart-lang.cn/</id>
   
   <author>
@@ -19,9 +19,9 @@
     <link href="http://www.dart-lang.cn/2014/08/04/World-vs-Self/"/>
     <id>http://www.dart-lang.cn/2014/08/04/World-vs-Self/</id>
     <published>2014-08-04T04:25:13.000Z</published>
-    <updated>2014-08-04T12:55:25.342Z</updated>
-    <content type="html"><![CDATA[<p>前天晚上,看了仝哥他们公司一个前同事Aaron Swat的纪录片.</p>
-<p>当听说看纪录片时,我是兴趣十足的,自己对于纪录片的喜好大概起源于小时候和爸妈一起看&lt;人与自然&gt;的记忆(小时候信息来源少).<a id="more"></a>但当仝哥说这是一个人的纪录片时,我就不禁在想,是哪个杰出人物的事迹?因为我对人物纪录片的挑剔程度还是不低的,以为我总以为个别人类的事迹和自然或伟大工程相比,总显得不那么震撼.但是下一句话然我很好奇.</p>
+    <updated>2014-08-04T16:00:23.214Z</updated>
+    <content type="html"><![CDATA[<p>前天晚上,看了仝哥他们公司一个前同事Aaron Swat的纪录片.<a id="more"></a></p>
+<p>当听说看纪录片时,我是兴趣十足的,自己对于纪录片的喜好大概起源于小时候和爸妈一起看&lt;人与自然&gt;的记忆(小时候信息来源少).但当仝哥说这是一个人的纪录片时,我就不禁在想,是哪个杰出人物的事迹?因为我对人物纪录片的挑剔程度还是不低的,以为我总以为个别人类的事迹和自然或伟大工程相比,总显得不那么震撼.但是下一句话然我很好奇.</p>
 <p>他说:这是我们公司前同事的传纪纪录片.</p>
 <p>“前同事”,”传纪”,”纪录片”.对于我这涉世不深的校园老人来说,却是感觉不寻常.</p>
 <p>艾伦·施瓦茨.最后的标签是”互联网之子”.确实,他和互联网之父(蒂姆·伯纳斯·李)之间类似于”猩猩相惜”的关系已是不俗,更重要的是这位才华横溢的少年,天生一副与现实世界格格不入的意识状态,但他没有一味的改变自己(我认为普通国人的惯性思维),而是为了一个理应更美好地环境决定用本不该承受如此之重的心,去改变世界(感觉这是少数异类做到并且拥有的思维).<br>也许是纪录片作者用意,这部纪录片无处不透露出”正义凛然”,”天才”,”怪杰”,”改变”,”可惜”这样的下意识标题.</p>
@@ -29,8 +29,7 @@
 <p>选择调试自己,意味着自我的转变,痛苦与艰辛且不说,这样的意识似乎不是一个自由开放亲和进取的环境所能广泛催生出来的.</p>
 <p>选择调试世界,这样的勇气也不是一个闭塞强制隔阂的环境所能批量塑造而来的.</p>
 ]]></content>
-    <summary type="html"><![CDATA[<p>前天晚上,看了仝哥他们公司一个前同事Aaron Swat的纪录片.</p>
-<p>当听说看纪录片时,我是兴趣十足的,自己对于纪录片的喜好大概起源于小时候和爸妈一起看&lt;人与自然&gt;的记忆(小时候信息来源少).]]></summary>
+    <summary type="html"><![CDATA[<p>前天晚上,看了仝哥他们公司一个前同事Aaron Swat的纪录片.]]></summary>
     
       <category term="Think" scheme="http://www.dart-lang.cn/tags/Think/"/>
     
@@ -41,10 +40,10 @@
     <link href="http://www.dart-lang.cn/2014/07/01/%E6%95%B0%E6%8D%AE%E4%B8%8E%E9%9B%A8(data-as-rain)/"/>
     <id>http://www.dart-lang.cn/2014/07/01/数据与雨(data-as-rain)/</id>
     <published>2014-07-01T07:33:59.000Z</published>
-    <updated>2014-08-04T12:43:32.319Z</updated>
-    <content type="html"><![CDATA[<p>就是刚才,’壮丽’的花生豆大的雨点坠落在17楼的玻璃上,牢牢地站在窗户上.屋里那只终日昏昏碌碌睡觉的猫,精神起来,到桌子上捣乱,驳倒了某个同事的水杯,造成了办公室一时间的稍稍骚动.然后是’屏静’.那只猫叫”呼噜”.<br><a id="more"></a><br>脏数据:不知是昨天晚上还是今天早上,依稀记得不知咋的一直在想&lt;&lt;黑客帝国&gt;&gt;的结局,以为自己一直认为没有看透结局,今天算是想到了一个让自己还算满意的结果吧,虽然悲观了一点.但是合情合理.neo和幸存者一直在用生命维护的’真实世界’锡安从来就是世界缔造者的补丁计划.一切都是周密的安排.包括反叛和幸存.<br>可能是经典的那段neo的’数据流世界’场景太鲜活,导致了这次童趣的遐想.天上的云,地下的水.就像网络世界中的数据,本没有什么区别,只是存储到了不同的位置,天上在挥洒着雨点,传递到地面,大地通过自己的地形汇聚起这一次的数据传输,将数据存储到自己的地下数据库,或者分流到其他存储媒介,比如说像缓存一样的江河湖海,数据的存在是有实效的,长久不用就归一大海,然后蒸发是天空对数据的回收利用.南北极是重要的数据区块,不轻易io.<br>不但如此,就像刚才天地之间的一瞬间数据传递,还表现出网络中数据真正应该有的过程,以保证高效和无痕.一次传输的数据固定,就是应该下的那几滴雨,但是聪明的造物主知道将大量的数据拆包发送,这样不会瞬间占用天地间太大的通道空间,造成硬件受损.<br>不过就像数据的属性一样,同属性的数据总会被归一处理,所以金木水火土往往物以类聚,达到自然而然的数据规整.<br>…Think about world…原来是’呼噜’渴了….</p>
+    <updated>2014-08-04T16:00:55.246Z</updated>
+    <content type="html"><![CDATA[<p>就是刚才,’壮丽’的花生豆大的雨点坠落在17楼的玻璃上,牢牢地站在窗户上.屋里那只终日昏昏碌碌睡觉的猫,精神起来,到桌子上捣乱,驳倒了某个同事的水杯,造成了办公室一时间的稍稍骚动.然后是’屏静’.那只猫叫”呼噜”.<a id="more"></a><br>脏数据:不知是昨天晚上还是今天早上,依稀记得不知咋的一直在想&lt;&lt;黑客帝国&gt;&gt;的结局,以为自己一直认为没有看透结局,今天算是想到了一个让自己还算满意的结果吧,虽然悲观了一点.但是合情合理.neo和幸存者一直在用生命维护的’真实世界’锡安从来就是世界缔造者的补丁计划.一切都是周密的安排.包括反叛和幸存.<br>可能是经典的那段neo的’数据流世界’场景太鲜活,导致了这次童趣的遐想.天上的云,地下的水.就像网络世界中的数据,本没有什么区别,只是存储到了不同的位置,天上在挥洒着雨点,传递到地面,大地通过自己的地形汇聚起这一次的数据传输,将数据存储到自己的地下数据库,或者分流到其他存储媒介,比如说像缓存一样的江河湖海,数据的存在是有实效的,长久不用就归一大海,然后蒸发是天空对数据的回收利用.南北极是重要的数据区块,不轻易io.<br>不但如此,就像刚才天地之间的一瞬间数据传递,还表现出网络中数据真正应该有的过程,以保证高效和无痕.一次传输的数据固定,就是应该下的那几滴雨,但是聪明的造物主知道将大量的数据拆包发送,这样不会瞬间占用天地间太大的通道空间,造成硬件受损.<br>不过就像数据的属性一样,同属性的数据总会被归一处理,所以金木水火土往往物以类聚,达到自然而然的数据规整.<br>…Think about world…原来是’呼噜’渴了….</p>
 ]]></content>
-    <summary type="html"><![CDATA[<p>就是刚才,’壮丽’的花生豆大的雨点坠落在17楼的玻璃上,牢牢地站在窗户上.屋里那只终日昏昏碌碌睡觉的猫,精神起来,到桌子上捣乱,驳倒了某个同事的水杯,造成了办公室一时间的稍稍骚动.然后是’屏静’.那只猫叫”呼噜”.<br>]]></summary>
+    <summary type="html"><![CDATA[<p>就是刚才,’壮丽’的花生豆大的雨点坠落在17楼的玻璃上,牢牢地站在窗户上.屋里那只终日昏昏碌碌睡觉的猫,精神起来,到桌子上捣乱,驳倒了某个同事的水杯,造成了办公室一时间的稍稍骚动.然后是’屏静’.那只猫叫”呼噜”.]]></summary>
     
       <category term="Think" scheme="http://www.dart-lang.cn/tags/Think/"/>
     
@@ -55,12 +54,34 @@
     <link href="http://www.dart-lang.cn/2014/05/12/lazy_a_busy_day/"/>
     <id>http://www.dart-lang.cn/2014/05/12/lazy_a_busy_day/</id>
     <published>2014-05-12T13:12:04.000Z</published>
-    <updated>2014-08-04T12:43:32.355Z</updated>
-    <content type="html"><![CDATA[<p>YUI - 最近两年的状态是一个半入门的程序员 且是前端er 所以对YUI这些前端库还是颇知一二的<br>多年前 收藏了一首歌 &lt;<to mother="">&gt; 当时应该是大一 一是因为主题是感激 而是因为歌声真的挺好听 还有就是当时的中文翻译版歌词写的很动人<br><a id="more"></a><br>最近 半个月之前 看新闻时听说了一个两个动漫 &lt;<fate zero="">&gt;和&lt;&lt;刀剑神域&gt;&gt;既SAO<br>sao里有一个系统级别的人工智能(AI) 是男女主角的虚拟女儿 名字叫YUI(结衣) 这是在第三个领域遇见YUI这个名字了<br>后来看资料知道 刀剑神域的片尾曲 是YUI唱的 这时已经感觉到和to mother的歌手有点像 所以查了YUI的维基百科 知道她参演的电影&lt;&lt;太阳之歌&gt;&gt;影响很大<br>后再又去QQ音乐找了YUI的歌 果然 to mother是她的作品 而且好多其他的歌也很精彩 &lt;&lt;钢之炼金术师&gt;&gt;的again 还有&lt;&lt;死神&gt;&gt;主题曲 还有好多动漫的主题曲<br>昨天 20140511是母亲节了 听了好长时间的To mother  在那天的前天晚上将这两首歌分享到了Qzone里 合起来的意思就是 To mother,again.</fate></to></p>
+    <updated>2014-08-04T15:57:17.733Z</updated>
+    <content type="html"><![CDATA[<p>YUI - 最近两年的状态是一个半入门的程序员 且是前端er 所以对YUI这些前端库还是颇知一二的<br>多年前 收藏了一首歌 &lt;&lt;&lt; to mother &gt;&gt; 当时应该是大一 一是因为主题是感激 而是因为歌声真的挺好听 还有就是当时的中文翻译版歌词写的很动人<br>最近 半个月之前 看新闻时听说了两个动漫 &lt;<fate zero="">&gt;和&lt;&lt;刀剑神域&gt;&gt;既SAO<br> <a id="more"></a><br>sao里有一个系统级别的人工智能(AI) 是男女主角的虚拟女儿 名字叫YUI(结衣) 这是在第三个领域遇见YUI这个名字了<br>后来看资料知道 刀剑神域的片尾曲 是YUI唱的 这时已经感觉到和to mother的歌手有点像 所以查了YUI的维基百科 知道她参演的电影&lt;&lt;太阳之歌&gt;&gt;影响很大<br>后再又去QQ音乐找了YUI的歌 果然 to mother是她的作品 而且好多其他的歌也很精彩 &lt;&lt;钢之炼金术师&gt;&gt;的again 还有&lt;&lt;死神&gt;&gt;主题曲 还有好多动漫的主题曲<br>昨天 20140511是母亲节了 听了好长时间的To mother  在那天的前天晚上将这两首歌分享到了Qzone里 合起来的意思就是 To mother,again.</fate></p>
 ]]></content>
-    <summary type="html"><![CDATA[<p>YUI - 最近两年的状态是一个半入门的程序员 且是前端er 所以对YUI这些前端库还是颇知一二的<br>多年前 收藏了一首歌 &lt;<to mother="">&gt; 当时应该是大一 一是因为主题是感激 而是因为歌声真的挺好听 还有就是当时的中文翻译版歌词写的很动人<br>]]></summary>
+    <summary type="html"><![CDATA[<p>YUI - 最近两年的状态是一个半入门的程序员 且是前端er 所以对YUI这些前端库还是颇知一二的<br>多年前 收藏了一首歌 &lt;&lt;&lt; to mother &gt;&gt; 当时应该是大一 一是因为主题是感激 而是因为歌声真的挺好听 还有就是当时的中文翻译版歌词写的很动人<br>最近 半个月之前 看新闻时听说了两个动漫 &lt;<fate zero="">&gt;和&lt;&lt;刀剑神域&gt;&gt;既SAO<br> ]]></summary>
     
       <category term="life" scheme="http://www.dart-lang.cn/tags/life/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[百年|印象]]></title>
+    <link href="http://www.dart-lang.cn/2014/03/30/history/"/>
+    <id>http://www.dart-lang.cn/2014/03/30/history/</id>
+    <published>2014-03-30T13:22:52.000Z</published>
+    <updated>2014-08-04T16:05:15.000Z</updated>
+    <content type="html"><![CDATA[<p>[1988] ++&gt; <a href="http://baike.baidu.com/view/286691.htm?fr=wordsearch" target="_blank" rel="external">http://baike.baidu.com/view/286691.htm?fr=wordsearch</a><br>时下好多明星都是这一年出生的 印象较深的比如释小龙 但这一年韩国的比较多 我比较清楚地就是 金秀贤 这位今年是如此之火 就连我这不怎么接触视频网站的都知道了 不过最终还是没空看他的电视剧 还好看了一部他的电影-隐秘而伟大 就算是跟了跟潮流吧<br>这一年 我没啥印象深刻的记忆 因为那是我出生两年前的事了<a id="more"></a></p>
+<p>[1998] ++&gt; <a href="http://baike.baidu.com/view/286326.htm?fr=wordsearch" target="_blank" rel="external">http://baike.baidu.com/view/286326.htm?fr=wordsearch</a><br>年纪不大的记忆里 那一年的标签是:洪水 军人 澳门<br>那正是一个刚要上学小孩的挣扎的年份 因为我小时候就是不想上学 哭着骗着要回家(严重的新人恐惧症 也就是所谓的熟人疯 就是为此才晚了一年上学)<br>那一年 农村的家家户户还是黑白电视 那一年最多的画面是洪水边上的解放军 也是那一年 军人保家卫国的形象在一个小孩心中更加深了烙印 其实现在 心中的印象也还是正面的</p>
+<p>[2008] ++&gt; <a href="http://baike.baidu.com/view/71034.htm?fr=wordsearch" target="_blank" rel="external">http://baike.baidu.com/view/71034.htm?fr=wordsearch</a><br>奥运 地震<br>标签最鲜明的就这两个 但这两个分量足以忽略别的一切 每一个都是历历在目 触目惊心 当然还有 三鹿 还有北京<br>虽然奥运时 我就在北京 200808080808p.m. 我也见到了满城尽是倒计时(尤其是几乎所有大厦的户外屏幕史无前例的不再播广告了) 但是 奥运的喜庆让人把北京淡化了 至少给我的印象是中国奥运 不是北京奥运<br>而汶川的惊天巨变 更是让举国上下看到了13亿是什么概念</p>
+<p>[2018] ++&gt; <a href="http://baike.baidu.com/view/1926353.htm?fr=wordsearch" target="_blank" rel="external">http://baike.baidu.com/view/1926353.htm?fr=wordsearch</a><br>大唐 经济体<br>从这一段开始 将会是历史的推测 但都是有理有据的结论(也不排除夸大和误推)<br>这是大唐帝国1400年诞辰 将会是一个全球华人’奋内’的事情<br>还有就是经济的依然强大 这是举国奋斗的结果展现(虽然也会有不和谐的什么事 这就不知道了)</p>
+<p>[2028] ++&gt; <a href="http://baike.baidu.com/view/3215628.htm" target="_blank" rel="external">http://baike.baidu.com/view/3215628.htm</a><br>平淡 波澜不惊<br>从时间推算上来看 这一年没有什么注定发生的 但今年是老爷子六十大寿 对于我来说 这是激励我fighting的一点 因为到时候家里的生活现状都要靠现在的我来努力创造<br>到时候估计我也上有老下有小的阶段了<br>默默努力吧</p>
+<p>[2038] ++&gt; <a href="http://baike.baidu.com/view/1366867.htm" target="_blank" rel="external">http://baike.baidu.com/view/1366867.htm</a><br>计算机 科技<br>从今以后 应该是科技更加日新月异的时代 几乎天天都是新突破(应该是的)<br>千年虫问题过去快四十年了 终于 又迎来了一个bug(虫) 2038年1月19日03:14:07 将会是好多32bit类Unix或者其他系统的时间临界点 到时候肯定会被人们提前解决掉 不会影响太大 只是会有不知情的人会杞人忧天吧 就像2012年12月的我(我当时竟傻傻的很慌张 年少无知吧) </p>
+<p>[2048] ++&gt; <a href="http://baike.baidu.com/view/5020064.htm" target="_blank" rel="external">http://baike.baidu.com/view/5020064.htm</a><br>体制 宇宙法则<br>这也是让我大周末有动力写东西的动力来源 是因为带感 因为神秘 因为好奇<br>终于到了小时候电影里那种人类无比同一 齐心协力共度难关的时刻了 (受电影动画影响的心态)<br>最关心的主要是宇宙法则这东西 我小说看得少 三体那样的文学作品 始终故意不去接触 但是自己对这方面的渴望是很少见的<br>科技始终在进步 这是无法阻挡的 很幸运神活在这个接近临界点(奇点)的时代 </p>
+<p>[2068] ++&gt; <a href="http://baike.baidu.com/view/1297556.htm" target="_blank" rel="external">http://baike.baidu.com/view/1297556.htm</a><br>想象 科技<br>科技是第一生产力 他推动时代前进 可能现在也已经推动时空交流了 目前只能从创作家的想象中窥见一斑 但到时候的景象肯定更加离奇百变</p>
+<p>[2088] ++&gt; <a href="http://baike.baidu.com/view/5020070.htm?fr=wordsearch" target="_blank" rel="external">http://baike.baidu.com/view/5020070.htm?fr=wordsearch</a><br>又是猴年 不知这时是不是长生不老 嗯</p>
+]]></content>
+    <summary type="html"><![CDATA[<p>[1988] ++&gt; <a href="http://baike.baidu.com/view/286691.htm?fr=wordsearch" target="_blank" rel="external">http://baike.baidu.com/view/286691.htm?fr=wordsearch</a><br>时下好多明星都是这一年出生的 印象较深的比如释小龙 但这一年韩国的比较多 我比较清楚地就是 金秀贤 这位今年是如此之火 就连我这不怎么接触视频网站的都知道了 不过最终还是没空看他的电视剧 还好看了一部他的电影-隐秘而伟大 就算是跟了跟潮流吧<br>这一年 我没啥印象深刻的记忆 因为那是我出生两年前的事了]]></summary>
+    
+      <category term="HiStory" scheme="http://www.dart-lang.cn/tags/HiStory/"/>
     
   </entry>
   
@@ -111,13 +132,13 @@
     <link href="http://www.dart-lang.cn/2014/03/19/meet_notepad_im_and_cc/"/>
     <id>http://www.dart-lang.cn/2014/03/19/meet_notepad_im_and_cc/</id>
     <published>2014-03-19T10:42:10.000Z</published>
-    <updated>2014-08-04T12:43:32.395Z</updated>
-    <content type="html"><![CDATA[<p>今天华北平原降温十度 是个微冷的一天 任务繁重 专注于工程一整天 写了几个学代码的练习任务 一会儿骑车回学校<br>同时今天偶遇了notepad.cc的得利长兄++&gt;notepad.im<a id="more"></a><br>这两个都是轻巧的云端应用</p>
+    <updated>2014-08-04T15:58:13.006Z</updated>
+    <content type="html"><![CDATA[<p>今天华北平原降温十度 是个微冷的一天 任务繁重 专注于工程一整天 写了几个学代码的练习任务 一会儿骑车回学校<br>同时今天偶遇了notepad.cc的得利长兄++&gt;notepad.im<br>这两个都是轻巧的云端应用<a id="more"></a></p>
 <p>和cc的特性:<br>0,需要网络<br>1,无需账号<br>2,笔记地址先用先得<br>3,可以设置访问密码(加密)<br>4,可以分享给所有人编辑(不排除被他人加密)<br>5,可以分享给所有人阅读(避免他人编辑修改)</p>
 <p>不同<br>im可以<br>1,设置账号<br>2,管理自己的笔记(增删改查)<br>3,更换主题(目前还不多)</p>
 <p>That’s all……</p>
 ]]></content>
-    <summary type="html"><![CDATA[<p>今天华北平原降温十度 是个微冷的一天 任务繁重 专注于工程一整天 写了几个学代码的练习任务 一会儿骑车回学校<br>同时今天偶遇了notepad.cc的得利长兄++&gt;notepad.im]]></summary>
+    <summary type="html"><![CDATA[<p>今天华北平原降温十度 是个微冷的一天 任务繁重 专注于工程一整天 写了几个学代码的练习任务 一会儿骑车回学校<br>同时今天偶遇了notepad.cc的得利长兄++&gt;notepad.im<br>这两个都是轻巧的云端应用]]></summary>
     
       <category term="新知" scheme="http://www.dart-lang.cn/tags/%E6%96%B0%E7%9F%A5/"/>
     
@@ -128,12 +149,26 @@
     <link href="http://www.dart-lang.cn/2014/03/17/body_to_a_man/"/>
     <id>http://www.dart-lang.cn/2014/03/17/body_to_a_man/</id>
     <published>2014-03-17T04:45:18.000Z</published>
-    <updated>2014-08-04T12:43:32.379Z</updated>
-    <content type="html"><![CDATA[<p>并不是只有文采飞扬的大师或豪杰才能在花园中仰天作诗 然后不禁一躬身 咳出一口血<br>长久以来 这种病态的侠义之情 犹如得到上天的恩惠般 让我们为之动容 <a id="more"></a><br>既然能有一个完好的状态 何不把持住 做出更好的成果 但是不知什么情节 更让大众动心的是牺牲般的行为 而不是兢兢业业 克己奉公的常规人群 这难道说大众对于理性来说 更强烈的情感是”同情” 是”怜悯”<br>最少可以看出 我们这是一个有着强烈民族特色的国度 不可以牵强附会的照搬其他民族的习俗<br>昨天的电视上看到 孔子 关羽 等历史人物 竟都是身长两米大几的壮汉 这让我无论如何不能想象古今的改变会是如此之大 如今 很难看到高大威猛的学者了 </p>
+    <updated>2014-08-04T15:52:07.544Z</updated>
+    <content type="html"><![CDATA[<p>并不是只有文采飞扬的大师或豪杰才能在花园中仰天作诗 然后不禁一躬身 咳出一口血<br>长久以来 这种病态的侠义之情 犹如得到上天的恩惠般 让我们为之动容<br>既然能有一个完好的状态 何不把持住 做出更好的成果 但是不知什么情节 更让大众动心的是牺牲般的行为 而不是兢兢业业 克己奉公的常规人群 这难道说大众对于理性来说 更强烈的情感是”同情” 是”怜悯”<br>最少可以看出 我们这是一个有着强烈民族特色的国度 不可以牵强附会的照搬其他民族的习俗<br>昨天的电视上看到 孔子 关羽 等历史人物 竟都是身长两米大几的壮汉 这让我无论如何不能想象古今的改变会是如此之大 如今 很难看到高大威猛的学者了 </p>
 ]]></content>
-    <summary type="html"><![CDATA[<p>并不是只有文采飞扬的大师或豪杰才能在花园中仰天作诗 然后不禁一躬身 咳出一口血<br>长久以来 这种病态的侠义之情 犹如得到上天的恩惠般 让我们为之动容 ]]></summary>
+    
     
       <category term="随想" scheme="http://www.dart-lang.cn/tags/%E9%9A%8F%E6%83%B3/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[饭漂]]></title>
+    <link href="http://www.dart-lang.cn/2014/03/16/nobody_but_you/"/>
+    <id>http://www.dart-lang.cn/2014/03/16/nobody_but_you/</id>
+    <published>2014-03-16T06:31:32.000Z</published>
+    <updated>2014-08-04T15:49:45.171Z</updated>
+    <content type="html"><![CDATA[<p>中午吃饭回来,感觉身子飘飘的没有重量,不像昨天那样一身负重感.难道这是快要复原的迹象,虽然年纪不大,但是已经体验过好几把年迈体衰的状态了.<br>由于体质较弱,所以普通的感冒发烧都能使我浮游于世,这样的体会大概每年会有一两次吧.自从13年初在北京呆了那一个月,感觉身体的病理机制又变了,现在我不能多吃食物,至少不能一次吃太多,否则就会不消化,接着严重胀气,接着恶性循环更不消化,达到某一极限,我只能坐等爆发的痛苦,,那也是一种呼吸的痛,由于肠胃胀气,导致呼吸的肺部形变严重挤压正在胀的像气球的肠胃,每走一步就是钻心的痛,每呼吸一下也是如此.幸亏我身边一直有同学和同事,否则到时我是没有救援的,因为已经不能动,拿不到电话.</p>
+]]></content>
+    
+    
+      <category term="body" scheme="http://www.dart-lang.cn/tags/body/"/>
     
   </entry>
   
@@ -142,10 +177,10 @@
     <link href="http://www.dart-lang.cn/2014/03/16/airport/"/>
     <id>http://www.dart-lang.cn/2014/03/16/airport/</id>
     <published>2014-03-16T05:51:21.000Z</published>
-    <updated>2014-08-04T12:43:32.339Z</updated>
-    <content type="html"><![CDATA[<p>这并不是我第一次创建个人博客了 再加上昨天开始的严重感冒 使我现在对于稍显复杂且不包含自动化的使用行为是如此的敬而远之 其实正常状态下 我并不是这样一个只注重结果和享受成果的人 就像广大程序爱好者一样 我喜欢敲代码的快乐节奏 喜欢命令行的强大 也喜欢瞎鼓捣的乐趣 <a id="more"></a> 但是 这一刻的我 已经不能让大脑承受得住多线程的任务了 于是 就像一个喜爱C的人 去折腾Java了 我暂停了Jekyll来到了Hexo 希望在追求前沿的阵地上发现更多更好的新鲜想法和行动</p>
+    <updated>2014-08-04T15:51:48.600Z</updated>
+    <content type="html"><![CDATA[<p>这并不是我第一次创建个人博客了 再加上昨天开始的严重感冒 使我现在对于稍显复杂且不包含自动化的使用行为是如此的敬而远之 其实正常状态下 我并不是这样一个只注重结果和享受成果的人 就像广大程序爱好者一样 我喜欢敲代码的快乐节奏 喜欢命令行的强大 也喜欢瞎鼓捣的乐趣 但是 这一刻的我 已经不能让大脑承受得住多线程的任务了 于是 就像一个喜爱C的人 去折腾Java了 我暂停了Jekyll来到了Hexo 希望在追求前沿的阵地上发现更多更好的新鲜想法和行动</p>
 ]]></content>
-    <summary type="html"><![CDATA[<p>这并不是我第一次创建个人博客了 再加上昨天开始的严重感冒 使我现在对于稍显复杂且不包含自动化的使用行为是如此的敬而远之 其实正常状态下 我并不是这样一个只注重结果和享受成果的人 就像广大程序爱好者一样 我喜欢敲代码的快乐节奏 喜欢命令行的强大 也喜欢瞎鼓捣的乐趣 ]]></summary>
+    
     
       <category term="随想" scheme="http://www.dart-lang.cn/tags/%E9%9A%8F%E6%83%B3/"/>
     
@@ -156,11 +191,9 @@
     <link href="http://www.dart-lang.cn/2014/03/16/hello-world/"/>
     <id>http://www.dart-lang.cn/2014/03/16/hello-world/</id>
     <published>2014-03-16T03:30:04.000Z</published>
-    <updated>2014-08-04T12:48:37.900Z</updated>
+    <updated>2014-08-04T16:00:13.794Z</updated>
     <content type="html"><![CDATA[<p>Welcome to <a href="http://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="http://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="http://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">trobuleshooting</a> or you can ask me on <a href="https://github.com/tommy351/hexo/issues" target="_blank" rel="external">GitHub</a>.</p>
-<h2 id="Quick_Start">Quick Start</h2>
-<a id="more"></a>
-
+<h2 id="Quick_Start_Hexo">Quick Start Hexo<a id="more"></a></h2>
 <h3 id="Create_a_new_post">Create a new post</h3>
 <figure class="highlight bash"><table><tr><td class="gutter"><pre>1
 </pre></td><td class="code"><pre>$ hexo new <span class="string">"My New Post"</span>
@@ -187,8 +220,7 @@
 <p>More info: <a href="http://hexo.io/docs/deployment.html" target="_blank" rel="external">Deployment</a></p>
 ]]></content>
     <summary type="html"><![CDATA[<p>Welcome to <a href="http://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="http://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="http://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">trobuleshooting</a> or you can ask me on <a href="https://github.com/tommy351/hexo/issues" target="_blank" rel="external">GitHub</a>.</p>
-<h2 id="Quick_Start">Quick Start</h2>
-]]></summary>
+<h2 id="Quick_Start_Hexo">Quick Start Hexo]]></summary>
     
       <category term="HelloWorld" scheme="http://www.dart-lang.cn/tags/HelloWorld/"/>
     
