@@ -2,9 +2,7 @@
 menu:
   首页: /
   时间线: /archives
-  时间胶囊: /time-pill+>
-  时间机器: /time-machine++>
-  域鸣: /domainame+++>
+  域鸣: /domainame+>
 rss: /atom.xml
 
 # Content
