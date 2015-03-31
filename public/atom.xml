@@ -3,9 +3,9 @@
   <title><![CDATA[Channely]]></title>
   <subtitle><![CDATA[hello-earth]]></subtitle>
   <link href="/atom.xml" rel="self"/>
-  <link href="http://www.dart-lang.cn/"/>
-  <updated>2014-09-02T12:36:43.725Z</updated>
-  <id>http://www.dart-lang.cn/</id>
+  <link href="http://channely.github.io/"/>
+  <updated>2015-03-31T02:57:30.293Z</updated>
+  <id>http://channely.github.io/</id>
   
   <author>
     <name><![CDATA[Channely]]></name>
@@ -15,11 +15,28 @@
   <generator uri="http://zespia.tw/hexo/">Hexo</generator>
   
   <entry>
+    <title><![CDATA[a new theme,the new status]]></title>
+    <link href="http://channely.github.io/2015/03/31/a-new-theme-the-new-status/"/>
+    <id>http://channely.github.io/2015/03/31/a-new-theme-the-new-status/</id>
+    <published>2015-03-31T02:27:44.000Z</published>
+    <updated>2015-03-31T02:34:33.000Z</updated>
+    <content type="html"><![CDATA[<p>折腾啊，是最烦的事，but，不折腾啊，会让人憋出毛病。</p>
+<p>换了个新主题，好长时间没有添加新内容了哈，最近变动一直比较大，换了好几个地方，着陆在杭州了。</p>
+<p>冬天这边真是冷啊，不是气温，是水分大，虽然温度不太低，但是人散热多了，所以冷的感觉更厉害，比北方严冬还冷。因为北方干燥，穿上层衣服保持自封闭的状态，几乎不散热，或者散热也不快，不像这边没有暖气，湿度大，一直散热，终于感受到所谓的湿冷。</p>
+<p>还是那样，一直体味不同的环境，感受五花八门的世。</p>
+]]></content>
+    
+    
+      <category term="fresh" scheme="http://channely.github.io/tags/fresh/"/>
+    
+  </entry>
+  
+  <entry>
     <title><![CDATA[Dare for more]]></title>
-    <link href="http://www.dart-lang.cn/2014/09/02/Dare-for-more/"/>
-    <id>http://www.dart-lang.cn/2014/09/02/Dare-for-more/</id>
+    <link href="http://channely.github.io/2014/09/02/Dare-for-more/"/>
+    <id>http://channely.github.io/2014/09/02/Dare-for-more/</id>
     <published>2014-09-02T11:16:34.000Z</published>
-    <updated>2014-09-02T12:36:37.358Z</updated>
+    <updated>2015-03-27T08:13:11.000Z</updated>
     <content type="html"><![CDATA[<p>今天傍晚成都的天气真好，成飞的歼十战机如约光临，刺破苍穹。给力的天空让你能清晰瞭望层云后的天际。再无他求。</p>
 <p>这两天没干出些啥有成就感的事，但是今天给力的天同样带动了匀速跑的大脑，徒然脑洞灵光闪现，一时间有了些什么所得。是啥呢，应该是又一层顿悟之门打开了。</p>
 <p>只顾着记录了，悲催的灵感不知所踪啊。对不起了各位看官，待小僧日后去捕捉这次的所言所失。总之是一个阶段性，里程碑概念的小突破吧。走在二十到三十岁的路上，坚持重塑人生，过滤细小的生活。<br><a id="more"></a><br><img src="http://channely-github-io.qiniudn.com/20140902chengdu.jpg" alt="Summer later on ChengDu" title="Deep Sky Outside House."></p>
@@ -35,40 +52,40 @@
 <p>这两天没干出些啥有成就感的事，但是今天给力的天同样带动了匀速跑的大脑，徒然脑洞灵光闪现，一时间有了些什么所得。是啥呢，应该是又一层顿悟之门打开了。</p>
 <p>只顾着记录了，悲催的灵感不知所踪啊。对不起了各位看官，待小僧日后去捕捉这次的所言所失。总之是一个阶段性，里程碑概念的小突破吧。走在二十到三十岁的路上，坚持重塑人生，过滤细小的生活。<br>]]></summary>
     
-      <category term="Think" scheme="http://www.dart-lang.cn/tags/Think/"/>
+      <category term="Think" scheme="http://channely.github.io/tags/Think/"/>
     
-      <category term="life" scheme="http://www.dart-lang.cn/tags/life/"/>
+      <category term="life" scheme="http://channely.github.io/tags/life/"/>
     
-      <category term="新知" scheme="http://www.dart-lang.cn/tags/%E6%96%B0%E7%9F%A5/"/>
+      <category term="新知" scheme="http://channely.github.io/tags/%E6%96%B0%E7%9F%A5/"/>
     
   </entry>
   
   <entry>
     <title><![CDATA[Time Religious]]></title>
-    <link href="http://www.dart-lang.cn/2014/08/27/Time-Religious/"/>
-    <id>http://www.dart-lang.cn/2014/08/27/Time-Religious/</id>
+    <link href="http://channely.github.io/2014/08/27/Time-Religious/"/>
+    <id>http://channely.github.io/2014/08/27/Time-Religious/</id>
     <published>2014-08-27T05:45:55.000Z</published>
-    <updated>2014-08-27T05:47:57.077Z</updated>
+    <updated>2015-03-27T08:13:11.000Z</updated>
     <content type="html"><![CDATA[<p>从历史的经验来看,物质文明发展到一定阶段,就会成为宗教繁荣发展的沃土.当宗教发展到稳定阶段,又会滋生教派冲突.然后是平静的僵局,好似分久必合合久必分的天下大势.</p>
 <p>但是这种历史规律到了当代已然是可循可辨之理.</p>
 <p>但正是这种可捉摸,使时空的变换偏离历史.宗教时代coming .. . .   .  to this land land land ..</p>
 ]]></content>
     
     
-      <category term="HiStory" scheme="http://www.dart-lang.cn/tags/HiStory/"/>
+      <category term="HiStory" scheme="http://channely.github.io/tags/HiStory/"/>
     
-      <category term="worldless" scheme="http://www.dart-lang.cn/tags/worldless/"/>
+      <category term="worldless" scheme="http://channely.github.io/tags/worldless/"/>
     
-      <category term="Think" scheme="http://www.dart-lang.cn/tags/Think/"/>
+      <category term="Think" scheme="http://channely.github.io/tags/Think/"/>
     
   </entry>
   
   <entry>
     <title><![CDATA[duo 多. 益. 善.]]></title>
-    <link href="http://www.dart-lang.cn/2014/08/23/duo_duo_yi_shan/"/>
-    <id>http://www.dart-lang.cn/2014/08/23/duo_duo_yi_shan/</id>
+    <link href="http://channely.github.io/2014/08/23/duo_duo_yi_shan/"/>
+    <id>http://channely.github.io/2014/08/23/duo_duo_yi_shan/</id>
     <published>2014-08-23T10:35:18.000Z</published>
-    <updated>2014-08-23T11:57:39.390Z</updated>
+    <updated>2015-03-27T08:13:11.000Z</updated>
     <content type="html"><![CDATA[<p>域名在高莫测的大汉语言文化里 衍生出了种种传奇 光怪陆离的趣闻轶事也传唱不衰 名人墨客的’探古伤筋’亦是让我们后来人感之而又不及之</p>
 <p>近于网上偶遇一怪现象</p>
 <p>大好的2014年里 偶然间发现’多’duo 这个字是事业顺利 前途坦荡的一剂良药<a id="more"></a></p>
@@ -89,67 +106,67 @@
 <p>近于网上偶遇一怪现象</p>
 <p>大好的2014年里 偶然间发现’多’duo 这个字是事业顺利 前途坦荡的一剂良药]]></summary>
     
-      <category term="随想" scheme="http://www.dart-lang.cn/tags/%E9%9A%8F%E6%83%B3/"/>
+      <category term="随想" scheme="http://channely.github.io/tags/%E9%9A%8F%E6%83%B3/"/>
     
-      <category term="HiStory" scheme="http://www.dart-lang.cn/tags/HiStory/"/>
+      <category term="HiStory" scheme="http://channely.github.io/tags/HiStory/"/>
     
   </entry>
   
   <entry>
     <title><![CDATA[Light along the night]]></title>
-    <link href="http://www.dart-lang.cn/2014/08/19/Light-along-the-night/"/>
-    <id>http://www.dart-lang.cn/2014/08/19/Light-along-the-night/</id>
+    <link href="http://channely.github.io/2014/08/19/Light-along-the-night/"/>
+    <id>http://channely.github.io/2014/08/19/Light-along-the-night/</id>
     <published>2014-08-19T09:59:18.000Z</published>
-    <updated>2014-08-19T10:06:39.138Z</updated>
+    <updated>2015-03-27T08:13:11.000Z</updated>
     <content type="html"><![CDATA[<p>在编程的世界里,年轻人的生产力让渐渐年迈者无话可说,于是年迈者本能的走向了技术的深渊,如果没能掌控住技术屏障这一道大门,那自己的价值相较于年轻人就快被置空了.但是编程大众化的今天,让这若隐若现有一种歧视,有一种欺压,有一种不公平,这是所有人无心的结果,虽然编程能力是软实力,但是无论什么实力,都需要建立在 人 这个硬实力之上.<a id="more"></a>这由这以行业的特性决定,快速更新,迭代,上线,推广,当你看见推广的信号时,这个信号已经老了,甚至死掉了,只是你不是浪潮的推动者,如果是的话,你会在心里窃喜,看着劳苦大众去分享这份进步这份成功时,其实下一次更完美的迭代已经在自己的小世界里开始,甚至成形.<br>这种潜移默化,漂浮不定但又注定存在的权利偏移是如此的剧烈,以至于我们出于风口浪尖上时甚至拿不到一片树叶来做扁舟.<br>年龄的老去已是定局,我们年轻时如此疯狂的编写着拥有强大生产力的代码.为所在的公司集结科技实力,我们一如既往的拿走一张张钞票作为回报,而在背后却是一年年的岁月被抽走,而且永远也不会用代码将他赎回,如果还有一丝希望的话,但愿硬件科技能够迅猛发展,然我们进化成机器,做一个永不凋谢的程序师,但到时候代码又何在.<br>程序员的职业起于上世纪八十年代,第一代程序猿已经老去,但他们的辉煌使他们获得了丰厚的回报,至少不用持续更新技能,跟上市场的需求.但如今编程大众化的时代,无论如何凭一己之力不可能左右计算机科技前进的方向,因为后起之秀总是能量满满,随时等待一鸣惊人,他们精力无限,而且一批批的新人永无止境,带来的是计算机科学的大繁荣,商业化的长驱直入,年轻人自带的高能生产力定义了本领域的标准,接受更新,或者永远离开,但是步入年迈的时候,不能接受更新了,但是后来人依然将接受或里去的标准仅仅竖立着.<br>这样的现象尤其在web开发界彰显,新的技术理念层出不穷,每天的更新如果都去了解的话也需要个人数天时间的精力,情况可能更糟.越是和商业接触近的领域,其进步和迭代就越无可避免.就像是计算机科技这个虚无的实体在利用人类精力最旺盛的时期去一点点的完成它自我的成熟.</p>
 ]]></content>
     <summary type="html"><![CDATA[<p>在编程的世界里,年轻人的生产力让渐渐年迈者无话可说,于是年迈者本能的走向了技术的深渊,如果没能掌控住技术屏障这一道大门,那自己的价值相较于年轻人就快被置空了.但是编程大众化的今天,让这若隐若现有一种歧视,有一种欺压,有一种不公平,这是所有人无心的结果,虽然编程能力是软实力,但是无论什么实力,都需要建立在 人 这个硬实力之上.]]></summary>
     
-      <category term="瞎想" scheme="http://www.dart-lang.cn/tags/%E7%9E%8E%E6%83%B3/"/>
+      <category term="瞎想" scheme="http://channely.github.io/tags/%E7%9E%8E%E6%83%B3/"/>
     
-      <category term="worldless" scheme="http://www.dart-lang.cn/tags/worldless/"/>
+      <category term="worldless" scheme="http://channely.github.io/tags/worldless/"/>
     
   </entry>
   
   <entry>
     <title><![CDATA[hello_earth]]></title>
-    <link href="http://www.dart-lang.cn/2014/08/12/hello_earth/"/>
-    <id>http://www.dart-lang.cn/2014/08/12/hello_earth/</id>
+    <link href="http://channely.github.io/2014/08/12/hello_earth/"/>
+    <id>http://channely.github.io/2014/08/12/hello_earth/</id>
     <published>2014-08-12T10:05:53.000Z</published>
-    <updated>2014-08-12T11:56:00.782Z</updated>
+    <updated>2015-03-27T08:13:11.000Z</updated>
     <content type="html"><![CDATA[<p>20140812<br>突然发现 编程是一件如此磨灭人的创造力和想象力的事件 这尤其是在以编程为职业的人群中 工作的内容往往只是线性的流程思考与安排 职能高一点的 大概能力所及之处能够运用上平面化的布局思维 但大量的加班时间 无疑让本就缺少发散性的大脑没有锻炼的机会 但这也许就是专注某一领域的得与失吧<a id="more"></a> 把自己武装成适用于某一行业的特种部队 时刻准备着解决本领域的疑难杂症 恰巧 程序员处在了一个正直巅峰的领域 我们的专注与付出 目前是能够得到时代的回报的 因为 我们在渐渐的被科技所绑架 为了让我们满于现状 它理性给予我们荣耀的回报 像一些我没看过的小说里那样 是我们自己催生出了下一代主宰时空的高级生灵 </p>
 <p>20140811<br>人类之所以有今天这种普遍的体型和大小 大概与人体的组织属性和机能要求有关 大概 在我们现有的地球上 人类的皮肤组织骨骼肌肉血流神经系统 这些综合的特性 决定了人类这副机能完备 适应力强 可拓展的实体结构 这是在一个极有可能产生生命体的星球上的进化结果 那在其它类似极有可能有生物进化的星球上 应该很可能也是类似于地球的元素组成 进化出拥有相似身体组成的生物 当然最高级的生物如若想灵活敏捷 大概也需要人类大小的体型结构 以最大化适应他们的环境 那他们也会像人类这样达到一定程度的时候 大力研发人形机器 和人类类似在差不多触摸到人工智能时的钥匙时 也打开了通往其它星球的征途 于是想象中我们的不就将来的行为恰好是我们最可能承受的结果 不明的飞行物来访 然后是类人大小的智能机器 光顾 好消息是我们到时并不一定会在科技上被动 毕竟 这些来访者来时的时间内 我们的科技也没有闲着 但坏消息是 我们在进步的同时 来访者也没有闲着 先进与落后是长期存在的 </p>
 ]]></content>
     <summary type="html"><![CDATA[<p>20140812<br>突然发现 编程是一件如此磨灭人的创造力和想象力的事件 这尤其是在以编程为职业的人群中 工作的内容往往只是线性的流程思考与安排 职能高一点的 大概能力所及之处能够运用上平面化的布局思维 但大量的加班时间 无疑让本就缺少发散性的大脑没有锻炼的机会 但这也许就是专注某一领域的得与失吧]]></summary>
     
-      <category term="worldless" scheme="http://www.dart-lang.cn/tags/worldless/"/>
+      <category term="worldless" scheme="http://channely.github.io/tags/worldless/"/>
     
-      <category term="火花" scheme="http://www.dart-lang.cn/tags/%E7%81%AB%E8%8A%B1/"/>
+      <category term="火花" scheme="http://channely.github.io/tags/%E7%81%AB%E8%8A%B1/"/>
     
   </entry>
   
   <entry>
     <title><![CDATA[Pardon Inside Me]]></title>
-    <link href="http://www.dart-lang.cn/2014/08/08/pardon_inside_me/"/>
-    <id>http://www.dart-lang.cn/2014/08/08/pardon_inside_me/</id>
+    <link href="http://channely.github.io/2014/08/08/pardon_inside_me/"/>
+    <id>http://channely.github.io/2014/08/08/pardon_inside_me/</id>
     <published>2014-08-08T13:59:22.000Z</published>
-    <updated>2014-08-08T14:03:35.287Z</updated>
+    <updated>2015-03-27T08:13:11.000Z</updated>
     <content type="html"><![CDATA[<p>I’m a lonely one live on the earth,be afraid inside. But also being brave front he,she,and you. As a easy break heart,i’m afraid to be with others,thus nothing need i proved out. Look,i’m a Zisi one. But everyone pardon me with a warm face everywhere. Waiting for <a id="more"></a> more.</p>
 ]]></content>
     <summary type="html"><![CDATA[<p>I’m a lonely one live on the earth,be afraid inside. But also being brave front he,she,and you. As a easy break heart,i’m afraid to be with others,thus nothing need i proved out. Look,i’m a Zisi one. But everyone pardon me with a warm face everywhere. Waiting for ]]></summary>
     
-      <category term="Think" scheme="http://www.dart-lang.cn/tags/Think/"/>
+      <category term="Think" scheme="http://channely.github.io/tags/Think/"/>
     
-      <category term="Life" scheme="http://www.dart-lang.cn/tags/Life/"/>
+      <category term="Life" scheme="http://channely.github.io/tags/Life/"/>
     
   </entry>
   
   <entry>
     <title><![CDATA[分类对和错]]></title>
-    <link href="http://www.dart-lang.cn/2014/08/07/sorting_from_true_and_false/"/>
-    <id>http://www.dart-lang.cn/2014/08/07/sorting_from_true_and_false/</id>
+    <link href="http://channely.github.io/2014/08/07/sorting_from_true_and_false/"/>
+    <id>http://channely.github.io/2014/08/07/sorting_from_true_and_false/</id>
     <published>2014-08-07T03:28:49.000Z</published>
-    <updated>2014-08-07T03:35:07.021Z</updated>
+    <updated>2015-03-27T08:13:11.000Z</updated>
     <content type="html"><![CDATA[<p>此生的前二十四年 我都在尝试着将一切分门别类 乃至达到了病态的心理 遇见新的人 我会将他同记忆中的人进行模糊匹配 通过特征来分组 一度达到了下意识或条件反射的程度<a id="more"></a> </p>
 <p>在学校我将我的小物品分装在不同的鞋盒里 在chrome中我存了几千个书签 不知何时开始 我有了一项日常活动就是分类存放当日书签 再到最近 终于达到了一个我需要几天才能完成的工作量 这不禁让我思考最初的目的 和真正的意义 </p>
 <p>分类的意识应该不是我独有的 肯定不是 这就像先人故意回避无理数的存在 中学生暂时不会微积分一样 我终于开始有‘事物是连续的’这样的感悟了 也许没有达尔文那样 悟出生物进化论 也没能有机会在阿尔弗雷德之前定义板块漂移学说 但有些宽泛的概念并非只能少数人能意识到 就像道家太极八卦的观念 只有存在在世的任何事物 之前从最根本上是有联系的 至少他们存在于同一维度 被同一时间轴驱动 拥有着同样的物理和数学法则 但是类似于进化论的连续理论 并不一定是有益于人的认知的 就像虽然生物是逐渐进化的 到现在我们仍然用具体的界门纲目科属种去分门别类一样 虽然连续是本质是真理 但是分类是可观是效率 于是 我之前前那些从不同类别里拿出来并存放到一起的书签(由于分类太费精力 一度下决心不分类 就堆放到一起了 好凌乱的说 几千个书签-.-) 现在不得不进行反向施工了 毕竟分类是为了今后寻找时的效率 所以牺牲分类的效率也就值得了 但是这种值得也不是一定的 当我分类的难度大于寻找的难度时 我想我就会彻底放弃分类了因为 终极目的是效率 </p>
@@ -157,19 +174,19 @@
 ]]></content>
     <summary type="html"><![CDATA[<p>此生的前二十四年 我都在尝试着将一切分门别类 乃至达到了病态的心理 遇见新的人 我会将他同记忆中的人进行模糊匹配 通过特征来分组 一度达到了下意识或条件反射的程度]]></summary>
     
-      <category term="Think" scheme="http://www.dart-lang.cn/tags/Think/"/>
+      <category term="Think" scheme="http://channely.github.io/tags/Think/"/>
     
-      <category term="Life" scheme="http://www.dart-lang.cn/tags/Life/"/>
+      <category term="Life" scheme="http://channely.github.io/tags/Life/"/>
     
   </entry>
   
   <entry>
     <title><![CDATA[World vs Self]]></title>
-    <link href="http://www.dart-lang.cn/2014/08/04/World-vs-Self/"/>
-    <id>http://www.dart-lang.cn/2014/08/04/World-vs-Self/</id>
+    <link href="http://channely.github.io/2014/08/04/World-vs-Self/"/>
+    <id>http://channely.github.io/2014/08/04/World-vs-Self/</id>
     <published>2014-08-04T04:25:13.000Z</published>
-    <updated>2014-08-04T16:00:23.214Z</updated>
-    <content type="html"><![CDATA[<p>前天晚上,看了仝哥他们公司一个前同事Aaron Swat的纪录片.<a id="more"></a></p>
+    <updated>2015-03-31T02:57:27.000Z</updated>
+    <content type="html"><![CDATA[<p>前天晚上,看了仝哥他们公司一个前同事Aaron Swat的纪录片. 现在说来真的是“前”同事,好多人和事并不是总发生在常理之中。<a id="more"></a></p>
 <p>当听说看纪录片时,我是兴趣十足的,自己对于纪录片的喜好大概起源于小时候和爸妈一起看&lt;人与自然&gt;的记忆(小时候信息来源少).但当仝哥说这是一个人的纪录片时,我就不禁在想,是哪个杰出人物的事迹?因为我对人物纪录片的挑剔程度还是不低的,以为我总以为个别人类的事迹和自然或伟大工程相比,总显得不那么震撼.但是下一句话然我很好奇.</p>
 <p>他说:这是我们公司前同事的传纪纪录片.</p>
 <p>“前同事”,”传纪”,”纪录片”.对于我这涉世不深的校园老人来说,却是感觉不寻常.</p>
@@ -178,46 +195,46 @@
 <p>选择调试自己,意味着自我的转变,痛苦与艰辛且不说,这样的意识似乎不是一个自由开放亲和进取的环境所能广泛催生出来的.</p>
 <p>选择调试世界,这样的勇气也不是一个闭塞强制隔阂的环境所能批量塑造而来的.</p>
 ]]></content>
-    <summary type="html"><![CDATA[<p>前天晚上,看了仝哥他们公司一个前同事Aaron Swat的纪录片.]]></summary>
+    <summary type="html"><![CDATA[<p>前天晚上,看了仝哥他们公司一个前同事Aaron Swat的纪录片. 现在说来真的是“前”同事,好多人和事并不是总发生在常理之中。]]></summary>
     
-      <category term="Think" scheme="http://www.dart-lang.cn/tags/Think/"/>
+      <category term="Think" scheme="http://channely.github.io/tags/Think/"/>
     
   </entry>
   
   <entry>
     <title><![CDATA[Data as Rain]]></title>
-    <link href="http://www.dart-lang.cn/2014/07/01/data-as-rain/"/>
-    <id>http://www.dart-lang.cn/2014/07/01/data-as-rain/</id>
+    <link href="http://channely.github.io/2014/07/01/data-as-rain/"/>
+    <id>http://channely.github.io/2014/07/01/data-as-rain/</id>
     <published>2014-07-01T07:33:59.000Z</published>
-    <updated>2014-08-07T04:42:44.029Z</updated>
+    <updated>2015-03-27T08:13:11.000Z</updated>
     <content type="html"><![CDATA[<p>就是刚才,’壮丽’的花生豆大的雨点坠落在17楼的玻璃上,牢牢地站在窗户上.屋里那只终日昏昏碌碌睡觉的猫,精神起来,到桌子上捣乱,驳倒了某个同事的水杯,造成了办公室一时间的稍稍骚动.然后是’屏静’.那只猫叫”呼噜”.<a id="more"></a><br>脏数据:不知是昨天晚上还是今天早上,依稀记得不知咋的一直在想&lt;&lt;黑客帝国&gt;&gt;的结局,以为自己一直认为没有看透结局,今天算是想到了一个让自己还算满意的结果吧,虽然悲观了一点.但是合情合理.neo和幸存者一直在用生命维护的’真实世界’锡安从来就是世界缔造者的补丁计划.一切都是周密的安排.包括反叛和幸存.<br>可能是经典的那段neo的’数据流世界’场景太鲜活,导致了这次童趣的遐想.天上的云,地下的水.就像网络世界中的数据,本没有什么区别,只是存储到了不同的位置,天上在挥洒着雨点,传递到地面,大地通过自己的地形汇聚起这一次的数据传输,将数据存储到自己的地下数据库,或者分流到其他存储媒介,比如说像缓存一样的江河湖海,数据的存在是有实效的,长久不用就归一大海,然后蒸发是天空对数据的回收利用.南北极是重要的数据区块,不轻易io.<br>不但如此,就像刚才天地之间的一瞬间数据传递,还表现出网络中数据真正应该有的过程,以保证高效和无痕.一次传输的数据固定,就是应该下的那几滴雨,但是聪明的造物主知道将大量的数据拆包发送,这样不会瞬间占用天地间太大的通道空间,造成硬件受损.<br>不过就像数据的属性一样,同属性的数据总会被归一处理,所以金木水火土往往物以类聚,达到自然而然的数据规整.<br>…Think about world…原来是’呼噜’渴了….</p>
 ]]></content>
     <summary type="html"><![CDATA[<p>就是刚才,’壮丽’的花生豆大的雨点坠落在17楼的玻璃上,牢牢地站在窗户上.屋里那只终日昏昏碌碌睡觉的猫,精神起来,到桌子上捣乱,驳倒了某个同事的水杯,造成了办公室一时间的稍稍骚动.然后是’屏静’.那只猫叫”呼噜”.]]></summary>
     
-      <category term="Think" scheme="http://www.dart-lang.cn/tags/Think/"/>
+      <category term="Think" scheme="http://channely.github.io/tags/Think/"/>
     
   </entry>
   
   <entry>
     <title><![CDATA[To mother,again.]]></title>
-    <link href="http://www.dart-lang.cn/2014/05/12/lazy_a_busy_day/"/>
-    <id>http://www.dart-lang.cn/2014/05/12/lazy_a_busy_day/</id>
+    <link href="http://channely.github.io/2014/05/12/lazy_a_busy_day/"/>
+    <id>http://channely.github.io/2014/05/12/lazy_a_busy_day/</id>
     <published>2014-05-12T13:12:04.000Z</published>
-    <updated>2014-08-04T15:57:17.733Z</updated>
+    <updated>2015-03-27T08:13:11.000Z</updated>
     <content type="html"><![CDATA[<p>YUI - 最近两年的状态是一个半入门的程序员 且是前端er 所以对YUI这些前端库还是颇知一二的<br>多年前 收藏了一首歌 &lt;&lt;&lt; to mother &gt;&gt; 当时应该是大一 一是因为主题是感激 而是因为歌声真的挺好听 还有就是当时的中文翻译版歌词写的很动人<br>最近 半个月之前 看新闻时听说了两个动漫 &lt;<fate zero="">&gt;和&lt;&lt;刀剑神域&gt;&gt;既SAO<br> <a id="more"></a><br>sao里有一个系统级别的人工智能(AI) 是男女主角的虚拟女儿 名字叫YUI(结衣) 这是在第三个领域遇见YUI这个名字了<br>后来看资料知道 刀剑神域的片尾曲 是YUI唱的 这时已经感觉到和to mother的歌手有点像 所以查了YUI的维基百科 知道她参演的电影&lt;&lt;太阳之歌&gt;&gt;影响很大<br>后再又去QQ音乐找了YUI的歌 果然 to mother是她的作品 而且好多其他的歌也很精彩 &lt;&lt;钢之炼金术师&gt;&gt;的again 还有&lt;&lt;死神&gt;&gt;主题曲 还有好多动漫的主题曲<br>昨天 20140511是母亲节了 听了好长时间的To mother  在那天的前天晚上将这两首歌分享到了Qzone里 合起来的意思就是 To mother,again.</fate></p>
 ]]></content>
     <summary type="html"><![CDATA[<p>YUI - 最近两年的状态是一个半入门的程序员 且是前端er 所以对YUI这些前端库还是颇知一二的<br>多年前 收藏了一首歌 &lt;&lt;&lt; to mother &gt;&gt; 当时应该是大一 一是因为主题是感激 而是因为歌声真的挺好听 还有就是当时的中文翻译版歌词写的很动人<br>最近 半个月之前 看新闻时听说了两个动漫 &lt;<fate zero="">&gt;和&lt;&lt;刀剑神域&gt;&gt;既SAO<br> ]]></summary>
     
-      <category term="life" scheme="http://www.dart-lang.cn/tags/life/"/>
+      <category term="life" scheme="http://channely.github.io/tags/life/"/>
     
   </entry>
   
   <entry>
     <title><![CDATA[百年|印象]]></title>
-    <link href="http://www.dart-lang.cn/2014/03/30/history/"/>
-    <id>http://www.dart-lang.cn/2014/03/30/history/</id>
+    <link href="http://channely.github.io/2014/03/30/history/"/>
+    <id>http://channely.github.io/2014/03/30/history/</id>
     <published>2014-03-30T13:22:52.000Z</published>
-    <updated>2014-08-04T16:05:15.000Z</updated>
+    <updated>2015-03-27T08:13:11.000Z</updated>
     <content type="html"><![CDATA[<p>[1988] ++&gt; <a href="http://baike.baidu.com/view/286691.htm?fr=wordsearch" target="_blank" rel="external">http://baike.baidu.com/view/286691.htm?fr=wordsearch</a><br>时下好多明星都是这一年出生的 印象较深的比如释小龙 但这一年韩国的比较多 我比较清楚地就是 金秀贤 这位今年是如此之火 就连我这不怎么接触视频网站的都知道了 不过最终还是没空看他的电视剧 还好看了一部他的电影-隐秘而伟大 就算是跟了跟潮流吧<br>这一年 我没啥印象深刻的记忆 因为那是我出生两年前的事了<a id="more"></a></p>
 <p>[1998] ++&gt; <a href="http://baike.baidu.com/view/286326.htm?fr=wordsearch" target="_blank" rel="external">http://baike.baidu.com/view/286326.htm?fr=wordsearch</a><br>年纪不大的记忆里 那一年的标签是:洪水 军人 澳门<br>那正是一个刚要上学小孩的挣扎的年份 因为我小时候就是不想上学 哭着骗着要回家(严重的新人恐惧症 也就是所谓的熟人疯 就是为此才晚了一年上学)<br>那一年 农村的家家户户还是黑白电视 那一年最多的画面是洪水边上的解放军 也是那一年 军人保家卫国的形象在一个小孩心中更加深了烙印 其实现在 心中的印象也还是正面的</p>
 <p>[2008] ++&gt; <a href="http://baike.baidu.com/view/71034.htm?fr=wordsearch" target="_blank" rel="external">http://baike.baidu.com/view/71034.htm?fr=wordsearch</a><br>奥运 地震<br>标签最鲜明的就这两个 但这两个分量足以忽略别的一切 每一个都是历历在目 触目惊心 当然还有 三鹿 还有北京<br>虽然奥运时 我就在北京 200808080808p.m. 我也见到了满城尽是倒计时(尤其是几乎所有大厦的户外屏幕史无前例的不再播广告了) 但是 奥运的喜庆让人把北京淡化了 至少给我的印象是中国奥运 不是北京奥运<br>而汶川的惊天巨变 更是让举国上下看到了13亿是什么概念</p>
@@ -230,58 +247,58 @@
 ]]></content>
     <summary type="html"><![CDATA[<p>[1988] ++&gt; <a href="http://baike.baidu.com/view/286691.htm?fr=wordsearch" target="_blank" rel="external">http://baike.baidu.com/view/286691.htm?fr=wordsearch</a><br>时下好多明星都是这一年出生的 印象较深的比如释小龙 但这一年韩国的比较多 我比较清楚地就是 金秀贤 这位今年是如此之火 就连我这不怎么接触视频网站的都知道了 不过最终还是没空看他的电视剧 还好看了一部他的电影-隐秘而伟大 就算是跟了跟潮流吧<br>这一年 我没啥印象深刻的记忆 因为那是我出生两年前的事了]]></summary>
     
-      <category term="HiStory" scheme="http://www.dart-lang.cn/tags/HiStory/"/>
+      <category term="HiStory" scheme="http://channely.github.io/tags/HiStory/"/>
     
   </entry>
   
   <entry>
     <title><![CDATA[茫茫碌碌走进度]]></title>
-    <link href="http://www.dart-lang.cn/2014/03/29/busy_day_by_day/"/>
-    <id>http://www.dart-lang.cn/2014/03/29/busy_day_by_day/</id>
+    <link href="http://channely.github.io/2014/03/29/busy_day_by_day/"/>
+    <id>http://channely.github.io/2014/03/29/busy_day_by_day/</id>
     <published>2014-03-29T15:46:17.000Z</published>
-    <updated>2014-08-04T12:43:32.299Z</updated>
+    <updated>2015-03-27T08:13:11.000Z</updated>
     <content type="html"><![CDATA[<p>赶进度 是软件开发者永不可能挥去的阴霾 </p>
 ]]></content>
     
     
-      <category term="life" scheme="http://www.dart-lang.cn/tags/life/"/>
+      <category term="life" scheme="http://channely.github.io/tags/life/"/>
     
   </entry>
   
   <entry>
     <title><![CDATA[the_day_after_little_holiday]]></title>
-    <link href="http://www.dart-lang.cn/2014/03/26/the_day_after_little_holiday/"/>
-    <id>http://www.dart-lang.cn/2014/03/26/the_day_after_little_holiday/</id>
+    <link href="http://channely.github.io/2014/03/26/the_day_after_little_holiday/"/>
+    <id>http://channely.github.io/2014/03/26/the_day_after_little_holiday/</id>
     <published>2014-03-26T10:50:02.000Z</published>
-    <updated>2014-08-04T12:43:32.383Z</updated>
+    <updated>2015-03-27T08:13:11.000Z</updated>
     <content type="html"><![CDATA[<p>the only thing i got after leaving SJZ is lots of heavily task,eg:education site,learning task,the lesson on normal university,and and the graduation design.But the heart i have in body have changed so deep.i have found the good place of people in other place.And i have better altitude to daily task,and known the more important thing in my life.lucky dog.</p>
 ]]></content>
     
     
-      <category term="life" scheme="http://www.dart-lang.cn/tags/life/"/>
+      <category term="life" scheme="http://channely.github.io/tags/life/"/>
     
   </entry>
   
   <entry>
     <title><![CDATA[沈阳初记事]]></title>
-    <link href="http://www.dart-lang.cn/2014/03/21/shenyangs_day/"/>
-    <id>http://www.dart-lang.cn/2014/03/21/shenyangs_day/</id>
+    <link href="http://channely.github.io/2014/03/21/shenyangs_day/"/>
+    <id>http://channely.github.io/2014/03/21/shenyangs_day/</id>
     <published>2014-03-21T12:28:05.000Z</published>
-    <updated>2014-08-04T12:43:32.307Z</updated>
+    <updated>2015-03-27T08:13:11.000Z</updated>
     <content type="html"><![CDATA[<p>昨天的现在 (⊙_⊙) 我还在去省民航局的公交上 接下来是机场大巴 我竟然不知道上车前要先买票 就直接被司机拦下了车<br>然后就是正定机场 然后就是 四十分钟的延迟 然后是一个半小时的离地之旅 <a id="more"></a><br>民航的效率果然甚是快于铁路 刚绕了石市一周 就看到了正定 然后应该是保定 再就一定是北京了 那是不一般的气势和规划 想着那是广袤大地的中心 是好多人的牵挂<br>咩了一觉就到沈阳了 第一次下旋梯 北国的气息就是强烈 仿佛到了一个月之前的庄里的天气<br>到沈阳市里的大巴 好多乘客都是石家庄的 不是的问着司机哪一站下 因为午夜过后两三点 所以大家小心又谨慎<br>但还是 错过了站 被司机绕回来送到了锦江之星 但是没有可入住的屋子 于是<br>于是是在KFC的漫长一夜 直到6:00.a.m. 着实煎熬 不过吃的被蛋卷着实好吃 还有香甜的豆浆<br>当然 最终如愿入住</p>
 ]]></content>
     <summary type="html"><![CDATA[<p>昨天的现在 (⊙_⊙) 我还在去省民航局的公交上 接下来是机场大巴 我竟然不知道上车前要先买票 就直接被司机拦下了车<br>然后就是正定机场 然后就是 四十分钟的延迟 然后是一个半小时的离地之旅 ]]></summary>
     
-      <category term="点滴" scheme="http://www.dart-lang.cn/tags/%E7%82%B9%E6%BB%B4/"/>
+      <category term="点滴" scheme="http://channely.github.io/tags/%E7%82%B9%E6%BB%B4/"/>
     
   </entry>
   
   <entry>
     <title><![CDATA[遇见Notepad.im和cc的日子]]></title>
-    <link href="http://www.dart-lang.cn/2014/03/19/meet_notepad_im_and_cc/"/>
-    <id>http://www.dart-lang.cn/2014/03/19/meet_notepad_im_and_cc/</id>
+    <link href="http://channely.github.io/2014/03/19/meet_notepad_im_and_cc/"/>
+    <id>http://channely.github.io/2014/03/19/meet_notepad_im_and_cc/</id>
     <published>2014-03-19T10:42:10.000Z</published>
-    <updated>2014-08-04T15:58:13.006Z</updated>
+    <updated>2015-03-27T08:13:11.000Z</updated>
     <content type="html"><![CDATA[<p>今天华北平原降温十度 是个微冷的一天 任务繁重 专注于工程一整天 写了几个学代码的练习任务 一会儿骑车回学校<br>同时今天偶遇了notepad.cc的得利长兄++&gt;notepad.im<br>这两个都是轻巧的云端应用<a id="more"></a></p>
 <p>和cc的特性:<br>0,需要网络<br>1,无需账号<br>2,笔记地址先用先得<br>3,可以设置访问密码(加密)<br>4,可以分享给所有人编辑(不排除被他人加密)<br>5,可以分享给所有人阅读(避免他人编辑修改)</p>
 <p>不同<br>im可以<br>1,设置账号<br>2,管理自己的笔记(增删改查)<br>3,更换主题(目前还不多)</p>
@@ -289,89 +306,81 @@
 ]]></content>
     <summary type="html"><![CDATA[<p>今天华北平原降温十度 是个微冷的一天 任务繁重 专注于工程一整天 写了几个学代码的练习任务 一会儿骑车回学校<br>同时今天偶遇了notepad.cc的得利长兄++&gt;notepad.im<br>这两个都是轻巧的云端应用]]></summary>
     
-      <category term="新知" scheme="http://www.dart-lang.cn/tags/%E6%96%B0%E7%9F%A5/"/>
+      <category term="新知" scheme="http://channely.github.io/tags/%E6%96%B0%E7%9F%A5/"/>
     
   </entry>
   
   <entry>
     <title><![CDATA[一个健康的身体]]></title>
-    <link href="http://www.dart-lang.cn/2014/03/17/body_to_a_man/"/>
-    <id>http://www.dart-lang.cn/2014/03/17/body_to_a_man/</id>
+    <link href="http://channely.github.io/2014/03/17/body_to_a_man/"/>
+    <id>http://channely.github.io/2014/03/17/body_to_a_man/</id>
     <published>2014-03-17T04:45:18.000Z</published>
-    <updated>2014-08-04T15:52:07.544Z</updated>
+    <updated>2015-03-27T08:13:11.000Z</updated>
     <content type="html"><![CDATA[<p>并不是只有文采飞扬的大师或豪杰才能在花园中仰天作诗 然后不禁一躬身 咳出一口血<br>长久以来 这种病态的侠义之情 犹如得到上天的恩惠般 让我们为之动容<br>既然能有一个完好的状态 何不把持住 做出更好的成果 但是不知什么情节 更让大众动心的是牺牲般的行为 而不是兢兢业业 克己奉公的常规人群 这难道说大众对于理性来说 更强烈的情感是”同情” 是”怜悯”<br>最少可以看出 我们这是一个有着强烈民族特色的国度 不可以牵强附会的照搬其他民族的习俗<br>昨天的电视上看到 孔子 关羽 等历史人物 竟都是身长两米大几的壮汉 这让我无论如何不能想象古今的改变会是如此之大 如今 很难看到高大威猛的学者了 </p>
 ]]></content>
     
     
-      <category term="随想" scheme="http://www.dart-lang.cn/tags/%E9%9A%8F%E6%83%B3/"/>
+      <category term="随想" scheme="http://channely.github.io/tags/%E9%9A%8F%E6%83%B3/"/>
     
   </entry>
   
   <entry>
     <title><![CDATA[饭漂]]></title>
-    <link href="http://www.dart-lang.cn/2014/03/16/nobody_but_you/"/>
-    <id>http://www.dart-lang.cn/2014/03/16/nobody_but_you/</id>
+    <link href="http://channely.github.io/2014/03/16/nobody_but_you/"/>
+    <id>http://channely.github.io/2014/03/16/nobody_but_you/</id>
     <published>2014-03-16T06:31:32.000Z</published>
-    <updated>2014-08-04T15:49:45.171Z</updated>
+    <updated>2015-03-27T08:13:11.000Z</updated>
     <content type="html"><![CDATA[<p>中午吃饭回来,感觉身子飘飘的没有重量,不像昨天那样一身负重感.难道这是快要复原的迹象,虽然年纪不大,但是已经体验过好几把年迈体衰的状态了.<br>由于体质较弱,所以普通的感冒发烧都能使我浮游于世,这样的体会大概每年会有一两次吧.自从13年初在北京呆了那一个月,感觉身体的病理机制又变了,现在我不能多吃食物,至少不能一次吃太多,否则就会不消化,接着严重胀气,接着恶性循环更不消化,达到某一极限,我只能坐等爆发的痛苦,,那也是一种呼吸的痛,由于肠胃胀气,导致呼吸的肺部形变严重挤压正在胀的像气球的肠胃,每走一步就是钻心的痛,每呼吸一下也是如此.幸亏我身边一直有同学和同事,否则到时我是没有救援的,因为已经不能动,拿不到电话.</p>
 ]]></content>
     
     
-      <category term="body" scheme="http://www.dart-lang.cn/tags/body/"/>
+      <category term="body" scheme="http://channely.github.io/tags/body/"/>
     
   </entry>
   
   <entry>
     <title><![CDATA[头脑热气旋旋旋]]></title>
-    <link href="http://www.dart-lang.cn/2014/03/16/airport/"/>
-    <id>http://www.dart-lang.cn/2014/03/16/airport/</id>
+    <link href="http://channely.github.io/2014/03/16/airport/"/>
+    <id>http://channely.github.io/2014/03/16/airport/</id>
     <published>2014-03-16T05:51:21.000Z</published>
-    <updated>2014-08-04T15:51:48.600Z</updated>
+    <updated>2015-03-27T08:13:11.000Z</updated>
     <content type="html"><![CDATA[<p>这并不是我第一次创建个人博客了 再加上昨天开始的严重感冒 使我现在对于稍显复杂且不包含自动化的使用行为是如此的敬而远之 其实正常状态下 我并不是这样一个只注重结果和享受成果的人 就像广大程序爱好者一样 我喜欢敲代码的快乐节奏 喜欢命令行的强大 也喜欢瞎鼓捣的乐趣 但是 这一刻的我 已经不能让大脑承受得住多线程的任务了 于是 就像一个喜爱C的人 去折腾Java了 我暂停了Jekyll来到了Hexo 希望在追求前沿的阵地上发现更多更好的新鲜想法和行动</p>
 ]]></content>
     
     
-      <category term="随想" scheme="http://www.dart-lang.cn/tags/%E9%9A%8F%E6%83%B3/"/>
+      <category term="随想" scheme="http://channely.github.io/tags/%E9%9A%8F%E6%83%B3/"/>
     
   </entry>
   
   <entry>
     <title><![CDATA[Hello World]]></title>
-    <link href="http://www.dart-lang.cn/2014/03/16/hello-world/"/>
-    <id>http://www.dart-lang.cn/2014/03/16/hello-world/</id>
+    <link href="http://channely.github.io/2014/03/16/hello-world/"/>
+    <id>http://channely.github.io/2014/03/16/hello-world/</id>
     <published>2014-03-16T03:30:04.000Z</published>
-    <updated>2014-08-04T16:00:13.794Z</updated>
+    <updated>2015-03-27T08:13:11.000Z</updated>
     <content type="html"><![CDATA[<p>Welcome to <a href="http://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="http://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="http://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">trobuleshooting</a> or you can ask me on <a href="https://github.com/tommy351/hexo/issues" target="_blank" rel="external">GitHub</a>.</p>
 <h2 id="Quick_Start_Hexo">Quick Start Hexo<a id="more"></a></h2>
 <h3 id="Create_a_new_post">Create a new post</h3>
-<figure class="highlight bash"><table><tr><td class="gutter"><pre>1
-</pre></td><td class="code"><pre>$ hexo new <span class="string">"My New Post"</span>
-</pre></td></tr></table></figure>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo new <span class="string">"My New Post"</span></div></pre></td></tr></table></figure>
 
 <p>More info: <a href="http://hexo.io/docs/writing.html" target="_blank" rel="external">Writing</a></p>
 <h3 id="Run_server">Run server</h3>
-<figure class="highlight bash"><table><tr><td class="gutter"><pre>1
-</pre></td><td class="code"><pre>$ hexo server
-</pre></td></tr></table></figure>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo server</div></pre></td></tr></table></figure>
 
 <p>More info: <a href="http://hexo.io/docs/server.html" target="_blank" rel="external">Server</a></p>
 <h3 id="Generate_static_files">Generate static files</h3>
-<figure class="highlight bash"><table><tr><td class="gutter"><pre>1
-</pre></td><td class="code"><pre>$ hexo generate
-</pre></td></tr></table></figure>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo generate</div></pre></td></tr></table></figure>
 
 <p>More info: <a href="http://hexo.io/docs/generating.html" target="_blank" rel="external">Generating</a></p>
 <h3 id="Deploy_to_remote_sites">Deploy to remote sites</h3>
-<figure class="highlight bash"><table><tr><td class="gutter"><pre>1
-</pre></td><td class="code"><pre>$ hexo deploy
-</pre></td></tr></table></figure>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo deploy</div></pre></td></tr></table></figure>
 
 <p>More info: <a href="http://hexo.io/docs/deployment.html" target="_blank" rel="external">Deployment</a></p>
 ]]></content>
     <summary type="html"><![CDATA[<p>Welcome to <a href="http://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="http://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="http://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">trobuleshooting</a> or you can ask me on <a href="https://github.com/tommy351/hexo/issues" target="_blank" rel="external">GitHub</a>.</p>
 <h2 id="Quick_Start_Hexo">Quick Start Hexo]]></summary>
     
-      <category term="HelloWorld" scheme="http://www.dart-lang.cn/tags/HelloWorld/"/>
+      <category term="HelloWorld" scheme="http://channely.github.io/tags/HelloWorld/"/>
     
   </entry>
   
